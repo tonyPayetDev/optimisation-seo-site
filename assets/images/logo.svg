@@ -2,22 +2,22 @@
   <!-- Chart icon -->
   <g transform="translate(0, 4)">
     <!-- Chart background circle -->
-    <circle cx="18" cy="18" r="16" fill="#004080"/>
+    <circle cx="18" cy="18" r="16" fill="#0056b3"/>
     <!-- Bar chart bars -->
     <rect x="8" y="18" width="4" height="8" rx="1" fill="white" opacity="0.7"/>
     <rect x="14" y="13" width="4" height="13" rx="1" fill="white"/>
     <rect x="20" y="9" width="4" height="17" rx="1" fill="white" opacity="0.85"/>
     <!-- Trend arrow line -->
-    <polyline points="8,18 14,13 20,9 25,6" stroke="#80b3ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-    <circle cx="25" cy="6" r="2" fill="#80b3ff"/>
+    <polyline points="8,18 14,13 20,9 25,6" stroke="#ff6600" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="25" cy="6" r="2" fill="#ff6600"/>
   </g>
 
   <!-- "SEO" text -->
-  <text x="42" y="30" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="800" fill="#004080" letter-spacing="0.5">SEO</text>
+  <text x="42" y="30" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="800" fill="#0056b3" letter-spacing="0.5">SEO</text>
 
   <!-- Divider dot -->
-  <circle cx="98" cy="22" r="2.5" fill="#80b3ff"/>
+  <circle cx="98" cy="22" r="2.5" fill="#ff6600"/>
 
   <!-- "Pro" text -->
-  <text x="105" y="30" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="600" fill="#004080" letter-spacing="0.5">Pro</text>
+  <text x="105" y="30" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="600" fill="#0056b3" letter-spacing="0.5">Pro</text>
 </svg>
