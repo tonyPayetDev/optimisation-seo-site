@@ -8,9 +8,9 @@
 
 /* --- CSS Custom Properties --- */
 :root {
-  --color-primary: #004080;
-  --color-secondary: #80b3ff;
-  --color-dark: #002855;
+  --color-primary: #0056b3;
+  --color-secondary: #ff6600;
+  --color-dark: #003880;
   --color-light: #e8f0ff;
   --color-white: #ffffff;
   --color-text-dark: #1a2340;
@@ -77,7 +77,7 @@
   --container-padding: var(--spacing-6);
 
   --gradient-primary: linear-gradient(135deg, var(--color-dark) 0%, var(--color-primary) 50%, #0060c0 100%);
-  --gradient-hero: linear-gradient(135deg, #001a3a 0%, #002855 30%, #004080 60%, #0060b0 100%);
+  --gradient-hero: linear-gradient(135deg, #001a3a 0%, #003880 30%, #0056b3 60%, #1a6fd0 100%);
   --gradient-light: linear-gradient(135deg, var(--color-light) 0%, #d0e4ff 100%);
   --gradient-card: linear-gradient(135deg, #ffffff 0%, #f0f6ff 100%);
 }
