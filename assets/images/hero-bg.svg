@@ -5,11 +5,11 @@
       <stop offset="100%" stop-color="#001a3a" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="rg2" cx="80%" cy="70%" r="40%">
-      <stop offset="0%" stop-color="#ff6600" stop-opacity="0.3"/>
+      <stop offset="0%" stop-color="#f0ad4e" stop-opacity="0.3"/>
       <stop offset="100%" stop-color="#001a3a" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff6600" stop-opacity="0.8"/>
+      <stop offset="0%" stop-color="#f0ad4e" stop-opacity="0.8"/>
       <stop offset="100%" stop-color="#0056b3" stop-opacity="0.2"/>
     </linearGradient>
     <filter id="glow">
@@ -27,7 +27,7 @@
   <rect width="1440" height="900" fill="url(#rg2)"/>
 
   <!-- Grid lines horizontal -->
-  <g stroke="#ff6600" stroke-opacity="0.06" stroke-width="1">
+  <g stroke="#f0ad4e" stroke-opacity="0.06" stroke-width="1">
     <line x1="0" y1="90" x2="1440" y2="90"/>
     <line x1="0" y1="180" x2="1440" y2="180"/>
     <line x1="0" y1="270" x2="1440" y2="270"/>
@@ -40,7 +40,7 @@
   </g>
 
   <!-- Grid lines vertical -->
-  <g stroke="#ff6600" stroke-opacity="0.06" stroke-width="1">
+  <g stroke="#f0ad4e" stroke-opacity="0.06" stroke-width="1">
     <line x1="144" y1="0" x2="144" y2="900"/>
     <line x1="288" y1="0" x2="288" y2="900"/>
     <line x1="432" y1="0" x2="432" y2="900"/>
@@ -53,7 +53,7 @@
   </g>
 
   <!-- Diagonal lines -->
-  <g stroke="#ff6600" stroke-opacity="0.04" stroke-width="1">
+  <g stroke="#f0ad4e" stroke-opacity="0.04" stroke-width="1">
     <line x1="0" y1="0" x2="900" y2="900"/>
     <line x1="200" y1="0" x2="1100" y2="900"/>
     <line x1="540" y1="0" x2="1440" y2="900"/>
@@ -61,31 +61,31 @@
   </g>
 
   <!-- Large circles -->
-  <circle cx="200" cy="200" r="180" fill="none" stroke="#ff6600" stroke-opacity="0.08" stroke-width="1"/>
-  <circle cx="200" cy="200" r="120" fill="none" stroke="#ff6600" stroke-opacity="0.1" stroke-width="1"/>
-  <circle cx="200" cy="200" r="60" fill="none" stroke="#ff6600" stroke-opacity="0.12" stroke-width="1.5"/>
-  <circle cx="200" cy="200" r="12" fill="#ff6600" fill-opacity="0.3"/>
+  <circle cx="200" cy="200" r="180" fill="none" stroke="#f0ad4e" stroke-opacity="0.08" stroke-width="1"/>
+  <circle cx="200" cy="200" r="120" fill="none" stroke="#f0ad4e" stroke-opacity="0.1" stroke-width="1"/>
+  <circle cx="200" cy="200" r="60" fill="none" stroke="#f0ad4e" stroke-opacity="0.12" stroke-width="1.5"/>
+  <circle cx="200" cy="200" r="12" fill="#f0ad4e" fill-opacity="0.3"/>
 
   <circle cx="1200" cy="600" r="220" fill="none" stroke="#0056b3" stroke-opacity="0.15" stroke-width="1.5"/>
-  <circle cx="1200" cy="600" r="150" fill="none" stroke="#ff6600" stroke-opacity="0.1" stroke-width="1"/>
-  <circle cx="1200" cy="600" r="80" fill="none" stroke="#ff6600" stroke-opacity="0.12" stroke-width="1"/>
-  <circle cx="1200" cy="600" r="16" fill="#ff6600" fill-opacity="0.25"/>
+  <circle cx="1200" cy="600" r="150" fill="none" stroke="#f0ad4e" stroke-opacity="0.1" stroke-width="1"/>
+  <circle cx="1200" cy="600" r="80" fill="none" stroke="#f0ad4e" stroke-opacity="0.12" stroke-width="1"/>
+  <circle cx="1200" cy="600" r="16" fill="#f0ad4e" fill-opacity="0.25"/>
 
-  <circle cx="900" cy="150" r="100" fill="none" stroke="#ff6600" stroke-opacity="0.07" stroke-width="1"/>
-  <circle cx="900" cy="150" r="50" fill="none" stroke="#ff6600" stroke-opacity="0.09" stroke-width="1"/>
+  <circle cx="900" cy="150" r="100" fill="none" stroke="#f0ad4e" stroke-opacity="0.07" stroke-width="1"/>
+  <circle cx="900" cy="150" r="50" fill="none" stroke="#f0ad4e" stroke-opacity="0.09" stroke-width="1"/>
 
-  <circle cx="1350" cy="100" r="70" fill="none" stroke="#ff6600" stroke-opacity="0.08" stroke-width="1"/>
-  <circle cx="100" cy="750" r="90" fill="none" stroke="#ff6600" stroke-opacity="0.07" stroke-width="1"/>
+  <circle cx="1350" cy="100" r="70" fill="none" stroke="#f0ad4e" stroke-opacity="0.08" stroke-width="1"/>
+  <circle cx="100" cy="750" r="90" fill="none" stroke="#f0ad4e" stroke-opacity="0.07" stroke-width="1"/>
 
   <!-- Data points / nodes -->
-  <circle cx="350" cy="350" r="5" fill="#ff6600" fill-opacity="0.6" filter="url(#glow)"/>
-  <circle cx="720" cy="200" r="4" fill="#ff6600" fill-opacity="0.5" filter="url(#glow)"/>
-  <circle cx="1050" cy="320" r="6" fill="#ff6600" fill-opacity="0.7" filter="url(#glow)"/>
-  <circle cx="500" cy="600" r="4" fill="#ff6600" fill-opacity="0.4"/>
-  <circle cx="850" cy="500" r="5" fill="#ff6600" fill-opacity="0.5"/>
-  <circle cx="1300" cy="400" r="4" fill="#ff6600" fill-opacity="0.4"/>
-  <circle cx="650" cy="750" r="5" fill="#ff6600" fill-opacity="0.4"/>
-  <circle cx="1100" cy="750" r="4" fill="#ff6600" fill-opacity="0.3"/>
+  <circle cx="350" cy="350" r="5" fill="#f0ad4e" fill-opacity="0.6" filter="url(#glow)"/>
+  <circle cx="720" cy="200" r="4" fill="#f0ad4e" fill-opacity="0.5" filter="url(#glow)"/>
+  <circle cx="1050" cy="320" r="6" fill="#f0ad4e" fill-opacity="0.7" filter="url(#glow)"/>
+  <circle cx="500" cy="600" r="4" fill="#f0ad4e" fill-opacity="0.4"/>
+  <circle cx="850" cy="500" r="5" fill="#f0ad4e" fill-opacity="0.5"/>
+  <circle cx="1300" cy="400" r="4" fill="#f0ad4e" fill-opacity="0.4"/>
+  <circle cx="650" cy="750" r="5" fill="#f0ad4e" fill-opacity="0.4"/>
+  <circle cx="1100" cy="750" r="4" fill="#f0ad4e" fill-opacity="0.3"/>
 
   <!-- Connection lines -->
   <g stroke="url(#lineGrad)" stroke-opacity="0.2" stroke-width="1" fill="none">
@@ -104,7 +104,7 @@
   <polyline
     points="80,700 180,620 280,650 380,520 480,540 580,430 680,460 780,360 880,380 980,280 1080,300 1180,200 1280,220 1380,140"
     fill="none"
-    stroke="#ff6600"
+    stroke="#f0ad4e"
     stroke-opacity="0.25"
     stroke-width="2.5"
     stroke-linecap="round"
@@ -113,7 +113,7 @@
   <!-- Area fill under line -->
   <path
     d="M80,700 L180,620 L280,650 L380,520 L480,540 L580,430 L680,460 L780,360 L880,380 L980,280 L1080,300 L1180,200 L1280,220 L1380,140 L1380,900 L80,900 Z"
-    fill="#ff6600"
+    fill="#f0ad4e"
     fill-opacity="0.03"
   />
 
@@ -130,12 +130,12 @@
   />
 
   <!-- Decorative hexagons -->
-  <polygon points="1350,250 1370,262 1370,286 1350,298 1330,286 1330,262" fill="none" stroke="#ff6600" stroke-opacity="0.2" stroke-width="1.5"/>
-  <polygon points="400,100 425,115 425,145 400,160 375,145 375,115" fill="none" stroke="#ff6600" stroke-opacity="0.15" stroke-width="1.5"/>
-  <polygon points="700,800 720,812 720,836 700,848 680,836 680,812" fill="none" stroke="#ff6600" stroke-opacity="0.15" stroke-width="1.5"/>
+  <polygon points="1350,250 1370,262 1370,286 1350,298 1330,286 1330,262" fill="none" stroke="#f0ad4e" stroke-opacity="0.2" stroke-width="1.5"/>
+  <polygon points="400,100 425,115 425,145 400,160 375,145 375,115" fill="none" stroke="#f0ad4e" stroke-opacity="0.15" stroke-width="1.5"/>
+  <polygon points="700,800 720,812 720,836 700,848 680,836 680,812" fill="none" stroke="#f0ad4e" stroke-opacity="0.15" stroke-width="1.5"/>
 
   <!-- Small dots pattern -->
-  <g fill="#ff6600" fill-opacity="0.2">
+  <g fill="#f0ad4e" fill-opacity="0.2">
     <circle cx="60" cy="400" r="2.5"/>
     <circle cx="140" cy="400" r="2.5"/>
     <circle cx="220" cy="400" r="2.5"/>
@@ -150,7 +150,7 @@
     <circle cx="300" cy="560" r="2.5"/>
   </g>
 
-  <g fill="#ff6600" fill-opacity="0.15">
+  <g fill="#f0ad4e" fill-opacity="0.15">
     <circle cx="1100" cy="100" r="2.5"/>
     <circle cx="1180" cy="100" r="2.5"/>
     <circle cx="1260" cy="100" r="2.5"/>

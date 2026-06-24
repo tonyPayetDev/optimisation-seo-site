@@ -18,14 +18,14 @@
   <!-- Link chain icon overlay top-right -->
   <g transform="translate(28, 5) rotate(-40)">
     <!-- Link 1 -->
-    <rect x="0" y="0" width="10" height="6" rx="3" fill="#ff6600" stroke="#0056b3" stroke-width="1.2"/>
+    <rect x="0" y="0" width="10" height="6" rx="3" fill="#f0ad4e" stroke="#0056b3" stroke-width="1.2"/>
     <!-- Link 2 -->
-    <rect x="6" y="2" width="10" height="6" rx="3" fill="#ff6600" stroke="#0056b3" stroke-width="1.2"/>
+    <rect x="6" y="2" width="10" height="6" rx="3" fill="#f0ad4e" stroke="#0056b3" stroke-width="1.2"/>
   </g>
 
   <!-- Small dot accents on connections -->
-  <circle cx="16" cy="19" r="1.5" fill="#ff6600"/>
-  <circle cx="32" cy="17" r="1.5" fill="#ff6600"/>
-  <circle cx="32" cy="31" r="1.5" fill="#ff6600"/>
-  <circle cx="17" cy="33" r="1.5" fill="#ff6600"/>
+  <circle cx="16" cy="19" r="1.5" fill="#f0ad4e"/>
+  <circle cx="32" cy="17" r="1.5" fill="#f0ad4e"/>
+  <circle cx="32" cy="31" r="1.5" fill="#f0ad4e"/>
+  <circle cx="17" cy="33" r="1.5" fill="#f0ad4e"/>
 </svg>

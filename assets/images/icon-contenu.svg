@@ -11,8 +11,8 @@
   <!-- Pencil -->
   <g transform="rotate(-40, 36, 34)">
     <rect x="31" y="26" width="7" height="16" rx="1" fill="#0056b3"/>
-    <polygon points="31,42 38,42 34.5,47" fill="#ff6600"/>
-    <rect x="31" y="26" width="7" height="3" rx="1" fill="#ff6600"/>
+    <polygon points="31,42 38,42 34.5,47" fill="#f0ad4e"/>
+    <rect x="31" y="26" width="7" height="3" rx="1" fill="#f0ad4e"/>
     <line x1="34.5" y1="42" x2="34.5" y2="47" stroke="#1a2340" stroke-width="0.8" opacity="0.5"/>
   </g>
   <!-- Checkmarks -->
