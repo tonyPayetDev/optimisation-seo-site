@@ -511,6 +511,16 @@ p {
   background: var(--color-light);
 }
 
+.header__nav-link.is-active {
+  color: var(--color-secondary);
+  font-weight: 600;
+}
+
+.header.is-scrolled .header__nav-link.is-active {
+  color: var(--color-primary);
+  background: var(--color-light);
+}
+
 .header__cta {
   display: none;
 }
